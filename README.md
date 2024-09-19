@@ -12,11 +12,11 @@ Antes de rodar a aplicação, você precisará garantir que possui as seguintes 
 
 ## Instalação
 
-1. **Clone o repositório**:
+1. **Clone e entre no repositório**:
 
    ```bash
    git clone https://github.com/vinirlmarques/crudProdutos.git
-   cd seu-repositorio
+   cd crodProdutos
    ```
 
 2. **Instale as dependências**:

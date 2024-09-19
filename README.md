@@ -33,7 +33,6 @@ Antes de rodar a aplicação, você precisará garantir que possui as seguintes 
 
    ```env
    MONGO_URI=mongodb://localhost:27017/produtosDB
-   PORT=3000
    ```
 
    - Substitua o valor de `MONGO_URI` com a URI do seu banco de dados MongoDB, caso esteja usando um MongoDB remoto.
